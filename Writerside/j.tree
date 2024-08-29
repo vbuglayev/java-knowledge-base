@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="j"
+                 name="java-knowledge-base"
+                 start-page="empty-md-topic.md">
+
+    <toc-element topic="System-Requirenments-Architectural-Drivers.md">
+        <toc-element topic="Functional-Requirements.md"/>
+        <toc-element topic="Non-Functional-Requirements.md"/>
+        <toc-element topic="Limitations-and-Boundaries.md"/>
+    </toc-element>
+    <toc-element topic="API-Design.md">
+        <toc-element topic="REST.md"/>
+        <toc-element topic="RPC.md"/>
+        <toc-element topic="GraphQL.md"/>
+        <toc-element topic="RSocket.md"/>
+    </toc-element>
+    <toc-element topic="Data-Storage.md">
+        <toc-element topic="Relational-Databases.md"/>
+        <toc-element topic="Non-Relational-Databases.md"/>
+    </toc-element>
+    <toc-element topic="empty-md-topic.md">
+        <toc-element topic="Multi-Tier-Architecture.md"/>
+        <toc-element topic="Microservices-Architecture.md"/>
+        <toc-element topic="Event-Driven-Architecture.md"/>
+    </toc-element>
+    <toc-element topic="Java.md">
+        <toc-element topic="JVM.md">
+            <toc-element topic="GraalVM.md"/>
+            <toc-element topic="Optimizations.md"/>
+        </toc-element>
+        <toc-element topic="Patterns.md">
+            <toc-element topic="Creational-Design-Patterns.md">
+                <toc-element topic="Singleton.md"/>
+            </toc-element>
+            <toc-element topic="Structural-Design-Patterns.md"/>
+            <toc-element topic="Behavioral-Design-Patterns.md"/>
+        </toc-element>
+        <toc-element topic="Spring.md"/>
+    </toc-element>
+</instance-profile>
