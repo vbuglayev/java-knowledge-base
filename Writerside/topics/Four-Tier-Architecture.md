@@ -18,3 +18,6 @@
 ### Cons:
 - **Complexity**: Increased architectural complexity with the addition of API layer.
 - **Performance**: Potential for added latency due to the additional API layer.
+
+## Conclusion
+Improved security by adding a layer for API/Caching/Security if compare to Three-Tier Architecture.
