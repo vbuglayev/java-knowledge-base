@@ -2,6 +2,8 @@
 
 Creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
+## Thread Safe Singleton
+
 ```Java
 public final class Singleton {
     private static volatile Singleton instance;
@@ -19,6 +21,18 @@ public final class Singleton {
             }
             return instance;
         }
+    }
+}
+```
+
+## Enum Singleton
+
+```Java
+public enum Singleton {
+    INSTANCE;
+
+    public void execute (String arg) {
+        // perform operations here
     }
 }
 ```
