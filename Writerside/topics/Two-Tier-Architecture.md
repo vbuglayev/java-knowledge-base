@@ -4,7 +4,7 @@
 - **Use Case**: Simple applications where business logic is minimal or embedded in the client-side application.
 - **Example**: Desktop applications that directly access a database.
 
-![](2-tier-arc.jpeg)
+![](../images/multi-tier-architecture/2-tier-arc.jpeg)
 
 ### Pros:
 - **Simplicity**: Easy to develop and deploy.

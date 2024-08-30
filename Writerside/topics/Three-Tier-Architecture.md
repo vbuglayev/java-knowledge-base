@@ -7,7 +7,7 @@
 - **Use Case**: Enterprise applications requiring scalability, maintainability, and separation of concerns.
 - **Example**: Web applications where the browser is the client, the server handles business logic, and a separate database is used for data storage.
 
-![](3-tier-architecture.png)
+![](../images/multi-tier-architecture/3-tier-architecture.png)
 
 ### Pros:
 - **Separation of Concerns**: Easier to manage, maintain, and update each layer independently.
