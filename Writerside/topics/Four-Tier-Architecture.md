@@ -10,6 +10,8 @@
 
 **Example**: Complex enterprise applications with extensive data handling requirements.
 
+![](../images/multi-tier-architecture/4-tier-arc.png)
+
 ### Pros:
 - **Modularity**: Enhanced separation of concerns by isolating data access logic.
 - **Maintainability**: Easier to update and maintain data access logic without affecting other layers.
