@@ -18,7 +18,10 @@
         <toc-element topic="RSocket.md"/>
     </toc-element>
     <toc-element topic="Data-Storage.md">
-        <toc-element topic="Relational-Databases.md"/>
+        <toc-element topic="CAP-Theorem.md"/>
+        <toc-element topic="Relational-Databases.md">
+            <toc-element topic="ACID.md"/>
+        </toc-element>
         <toc-element topic="Non-Relational-Databases.md"/>
     </toc-element>
     <toc-element topic="Software-Architecture-Patterns-and-Styles.md">
