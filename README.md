@@ -20,7 +20,9 @@ https://www.jetbrains.com/writerside/
 
 - [Data Storage](Writerside/topics/Data-Storage.md)
   - [Relational Databases](Writerside/topics/Relational-Databases.md)
+    - [ACID](Writerside/topics/ACID.md)
   - [Non-Relational Databases](Writerside/topics/Non-Relational-Databases.md)
+  - [CAP Theorem](Writerside/topics/CAP-Theorem.md)
 
 - [Software Architecture Patterns and Styles](Writerside/topics/Software-Architecture-Patterns-and-Styles.md)
   - [Multi-Tier Architecture](Writerside/topics/Multi-Tier-Architecture.md)
