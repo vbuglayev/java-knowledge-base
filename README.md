@@ -35,6 +35,7 @@ https://www.jetbrains.com/writerside/
 
 - [Java](Writerside/topics/Java.md)
   - [JVM](Writerside/topics/JVM.md)
+    - [Garbage Collectors](Writerside/topics/Garbage-Collectors.md)
     - [GraalVM](Writerside/topics/GraalVM.md)
     - [Optimizations](Writerside/topics/Optimizations.md)
   - [Patterns](Writerside/topics/Patterns.md)

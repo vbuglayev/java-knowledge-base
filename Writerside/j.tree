@@ -36,6 +36,7 @@
     </toc-element>
     <toc-element topic="Java.md">
         <toc-element topic="JVM.md">
+            <toc-element topic="Garbage-Collectors.md"/>
             <toc-element topic="GraalVM.md"/>
             <toc-element topic="Optimizations.md"/>
         </toc-element>
