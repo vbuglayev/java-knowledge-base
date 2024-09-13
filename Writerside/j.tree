@@ -34,7 +34,12 @@
             <toc-element topic="Four-Tier-Architecture.md"/>
             <toc-element topic="N-Tier-Architecture.md"/>
         </toc-element>
-        <toc-element topic="Microservices-Architecture.md"/>
+        <toc-element topic="Microservices-Architecture.md">
+            <toc-element topic="Migration-From-Monolith-To-Microservices.md">
+                <toc-element topic="Decomposing-Monolith-to-Microservices-by-Business-Capabilities.md"/>
+                <toc-element topic="Decomposing-Monolith-to-Microservices-by-Domains-Subdomains.md"/>
+            </toc-element>
+        </toc-element>
         <toc-element topic="Event-Driven-Architecture.md">
             <toc-element topic="CQRS.md"/>
         </toc-element>

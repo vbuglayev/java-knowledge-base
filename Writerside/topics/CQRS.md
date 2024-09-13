@@ -1,7 +1,5 @@
 # CQRS
 
-## Overview
-
 **Command Query Responsibility Segregation (CQRS)** is a design pattern that separates the responsibilities of reading and writing data in a system. In CQRS, the **Command** model handles operations that modify data (create, update, delete), while the **Query** model focuses on retrieving data without making any modifications. This segregation enhances scalability, flexibility, and performance, making it a good fit for **Event-Driven Architecture (EDA)** systems where data processing is often distributed and asynchronous.
 
 ### Key Concepts

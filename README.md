@@ -33,6 +33,9 @@ https://www.jetbrains.com/writerside/
     - [Four-Tier Architecture](Writerside/topics/Four-Tier-Architecture.md)
     - [N-Tier Architecture](Writerside/topics/N-Tier-Architecture.md)
   - [Microservices Architecture](Writerside/topics/Microservices-Architecture.md)
+    - [Migration From Monolith To Microservices](Writerside/topics/Migration-From-Monolith-To-Microservices.md)
+      - [Decomposing Monolith to Microservices by Business Capabilities](Writerside/topics/Decomposing-Monolith-to-Microservices-by-Business-Capabilities.md)
+      - [Decomposing Monolith to Microservices by Domains/Subdomains](Writerside/topics/Decomposing-Monolith-to-Microservices-by-Domains-Subdomains.md)
   - [Event Driven Architecture](Writerside/topics/Event-Driven-Architecture.md)
     - [CQRS](Writerside/topics/CQRS.md)
 
