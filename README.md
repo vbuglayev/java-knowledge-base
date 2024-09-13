@@ -34,6 +34,7 @@ https://www.jetbrains.com/writerside/
     - [N-Tier Architecture](Writerside/topics/N-Tier-Architecture.md)
   - [Microservices Architecture](Writerside/topics/Microservices-Architecture.md)
   - [Event Driven Architecture](Writerside/topics/Event-Driven-Architecture.md)
+    - [CQRS](Writerside/topics/CQRS.md)
 
 - [Java](Writerside/topics/Java.md)
   - [JVM](Writerside/topics/JVM.md)
