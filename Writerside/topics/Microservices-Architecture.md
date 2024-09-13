@@ -4,7 +4,7 @@
 - **Use Case**: Complex, large-scale applications that require high scalability, flexibility, and resilience. Suitable for organizations that need to frequently update or scale parts of an application without affecting the entire system.
 - **Example**: E-commerce platforms where different services handle user authentication, product catalog, order processing, and payment independently.
 
-![](../images/microservice/microservices.jpg)
+![](../images/microservice/microservices.png)
 
 ### Pros:
 - **Scalability**: Each service can be scaled independently based on demand, optimizing resource usage.
