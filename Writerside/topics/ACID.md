@@ -8,7 +8,7 @@ ACID is a set of properties that ensure reliable processing of database transact
 2. **Consistency**:  
    Guarantees that a transaction brings the database from one valid state to another, maintaining data integrity.
 
-3. **Isolation**:  
+3. **[Isolation](Isolation-Levels.md)**:  
    Ensures that the execution of transactions concurrently doesn't affect their outcome. Each transaction behaves as if it's the only one being processed.
 
 4. **Durability**:  

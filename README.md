@@ -21,6 +21,7 @@ https://www.jetbrains.com/writerside/
 - [Data Storage](Writerside/topics/Data-Storage.md)
   - [Relational Databases](Writerside/topics/Relational-Databases.md)
     - [ACID](Writerside/topics/ACID.md)
+    - [Isolation Levels](Writerside/topics/Isolation-Levels.md)
   - [Non-Relational Databases](Writerside/topics/Non-Relational-Databases.md)
   - [CAP Theorem](Writerside/topics/CAP-Theorem.md)
 
