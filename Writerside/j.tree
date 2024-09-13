@@ -35,7 +35,9 @@
             <toc-element topic="N-Tier-Architecture.md"/>
         </toc-element>
         <toc-element topic="Microservices-Architecture.md"/>
-        <toc-element topic="Event-Driven-Architecture.md"/>
+        <toc-element topic="Event-Driven-Architecture.md">
+            <toc-element topic="CQRS.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Java.md">
         <toc-element topic="JVM.md">
